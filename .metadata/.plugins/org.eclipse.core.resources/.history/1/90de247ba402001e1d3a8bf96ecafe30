@@ -1,0 +1,9 @@
+package com.helper;
+
+public class FactoryCloser {
+	
+	public static void CloseFacory() {
+		factory
+	}
+
+}
